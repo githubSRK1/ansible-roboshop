@@ -1,0 +1,8 @@
+[mongodb]
+mongodb.devopsproject.cloud
+
+[web]
+web.devopsproject.cloud
+
+[catalogue]
+catalogue.devopsproject.cloud
