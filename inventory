@@ -6,3 +6,24 @@ web.devopsproject.cloud
 
 [catalogue]
 catalogue.devopsproject.cloud
+
+[redis]
+redis.devopsproject.cloud
+
+[user]
+user.devopsproject.cloud
+
+[cart]
+cart.devopsproject.cloud
+
+[mysql]
+mysql.devopsproject.cloud
+
+[shipping]
+shipping.devopsproject.cloud
+
+[rabbitmq]
+rabbitmq.devopsproject.cloud
+
+[payment]
+payment.devopsproject.cloud
